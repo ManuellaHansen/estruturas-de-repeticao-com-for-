@@ -12,5 +12,3 @@ O objetivo principal é exercitar o controle de fluxo, manipulação de variáve
 * **JavaScript (ES6+)**
 * **Git & GitHub** (controle de versão e hospedagem)
 
----
-=======
