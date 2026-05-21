@@ -9,3 +9,4 @@ for (let contador = numero1 + 1; contador < numero2; contador++) {
 }
 
 alert(`Os números pares entre estes dois números são: ${mensagem}`);
+
